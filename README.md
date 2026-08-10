@@ -1,8 +1,8 @@
 ## Chris Lach
 
-I'm building **[Sip](https://github.com/chrislach1546-ops/sip-app)** — a café-discovery iOS app for Los
-Angeles, built on reviews from people you actually follow rather than aggregate star ratings.
-Solo project, in App Store submission prep.
+I'm building **[Sip](https://github.com/chrislach1546-ops/sip-app)** — a social café-discovery app
+for Los Angeles, where the community rates cafés by what they actually drank, and you follow the
+people whose taste you trust. Solo project, in App Store submission prep.
 
 React Native / Expo · TypeScript · Supabase Postgres · ~3,000 real LA cafés built from
 OpenStreetMap and Overture Maps.
